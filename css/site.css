@@ -38,7 +38,7 @@ main {
   background-color: rgb(201, 173, 255);
   padding: 10px;
   border: outset 5px white;
-  
+  color: RGB(255, 255, 255);
 }
 
 img#selfie {
