@@ -8,3 +8,7 @@ img#nametag {
 main {
   color: RGB(255,255,255);
 }
+
+div.nametag {
+  color: rgb(0, 0, 255);
+}
