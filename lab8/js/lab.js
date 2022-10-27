@@ -25,7 +25,8 @@ var result = numbers.map(function(x){
 
 console.log("4 times of an array: ", result);
 
-mapResults = ["My array", numbers, "</br>", "What is half of 8? ", half(8), "</br>", "What is half of 94? ", half(94), "</br>", "Test of halving an array: ", result]
+//mapResults = ["My array", numbers, "</br>", "What is half of 8? ", half(8), "</br>", "What is half of 94? ", half(94), "</br>", "Test of halving an array: ", result]
 
 
-document.getElementById("output").innerHTML = mapResults; // put your results here
+//document.getElementById("output").innerHTML = mapResults; // put your results here
+document.getElementById("output").innerHTML = "Hello World";
