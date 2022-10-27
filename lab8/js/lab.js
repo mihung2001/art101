@@ -24,3 +24,6 @@ var result = numbers.map(function(x){
 });
 
 console.log("4 times of an array: ", result);
+
+var outputEl = document.getElementById("output");
+outputEl.innerHTML = mapResults; // put your results here
