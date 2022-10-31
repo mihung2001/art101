@@ -1,0 +1,13 @@
+main {
+  color: RGB(255,255,255);
+}
+
+p.empty {
+  background-color: blue;
+  color:red;
+}
+
+h3#random2 {
+  background-color: red;
+  color:blue;
+}
