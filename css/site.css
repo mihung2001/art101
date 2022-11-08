@@ -1,47 +1,16 @@
-body {
-  background-color: rgb(187, 153, 255);
-  max-width: 1000px;
-  margin: auto;
-  font-family: 'Silkscreen', cursive;
-}
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
-h1   {
-  color: RGB(255, 255, 255);
-}
+body {background-color: rgb(204, 179, 255);
+			font-family: Poppins;
+      margin: auto;
+      padding: 10px;
+			color: RGB(255, 235, 255);
+			}
 
-h2 {
-  color: RGB(255, 255, 255);
-}
-
-h3 {
-  color: RGB(255, 255, 255);
-}
-
-ul {
-  color: RGB(160, 112, 255);
-}
-
-a {
-  color: RGB(255, 255, 255);
-  text-decoration: none;
-}
-
-a:hover {
-  color: RGB(169, 133, 255)
-}
+h1   {color: RGB(233, 207, 255);
+      font-size:200%;
+    }
 
 p    {
-  color: RGB(255, 235, 255);
-}
-
-main {
-  background-color: rgb(201, 173, 255);
-  padding: 10px;
-  border: outset 5px white;
-  color: RGB(255, 255, 255);
-}
-
-img#selfie {
-  margin: 0px 10px 0px 0px;
-  border: inset 5px #D6C2FF;
-}
+			text-indent: 20px;
+			margin-left: 10px;}

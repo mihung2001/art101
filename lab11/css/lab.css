@@ -1,0 +1,31 @@
+main {
+  color: RGB(255,255,255);
+  font-family: 'Silkscreen', cursive;
+}
+
+div.special-challenges {
+  color: green;
+}
+
+div.special-problems {
+  color: red;
+}
+
+div.special-results {
+  color: blue;
+}
+
+button {
+  font-family: 'Silkscreen', cursive;
+  color: RGB(255, 255, 255);
+  background-color: RGB(160, 112, 255);
+  border-radius: 10px;
+  border: 2px solid white;
+  font-size: 16px;
+  padding: 5px 10px;
+  transition-duration: 0.5s;
+}
+
+button:hover {
+  background-color: RGB(219, 165, 255);
+}
