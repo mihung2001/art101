@@ -29,7 +29,7 @@ $('#activate').click(function() {
       success: function(data) {
           // do stuff
           console.log(data);
-          $('#quote').remove();x
+          $('#quote').remove();
           $('#output').append('<p id="quote">"' + data['value'] + '"</p>');
       },
       // What we do if the api call fails
